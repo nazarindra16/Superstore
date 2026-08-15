@@ -65,8 +65,6 @@ DAX was utilized to develop KPIs and measures used in the analytical dashboard.
 The Power BI dashboard consists of several analytical perspectives covering executive performance, product performance, customer analysis, geographic performance, and shipping profitability.
 
 ### 1. Executive Overview
-![Executive Overview](./Screenshots/Executive Overview.png)
-
 
 The Executive Overview provides a high-level assessment of sales, profit, orders, and customer performance.
 

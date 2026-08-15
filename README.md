@@ -198,4 +198,5 @@ Aspiring Data Analyst
 **Technical Skills:** Excel, MySQL, Power BI, DAX, Data Cleaning, Data Visualization, Data Analysis, Business Analysis
 
 **Portfolio Project:** Sales Superstore Data Analysis
+
 **Date:** August 2026
